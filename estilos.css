@@ -1,0 +1,32 @@
+h1{
+color:#0489B1;
+font-family:Broadway;
+}
+
+p{
+color:#424242;
+}
+
+h2{
+	color:red;
+}
+
+body{
+	background-color:#F2F5A9;
+}
+
+ul{
+	list-style-type:square;
+}
+
+li{
+	font-weight:bold;
+}
+
+img{
+	width=500;
+}
+
+div{
+	text-align:center;
+}
